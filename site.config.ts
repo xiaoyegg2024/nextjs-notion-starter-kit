@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'https://abaft-ship-270.notion.site/Hello-914943db20884088b7c38be7e9946c74?pvs=4',
+  domain: 'https://abaft-ship-270.notion.site/914943db20884088b7c38be7e9946c74?pvs=4',
   author: 'Allen',
 
   // open graph metadata (optional)
